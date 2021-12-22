@@ -5,7 +5,7 @@
         "php": ">=8.0",
         "ext-json": "*",
         "slim/slim": "^4",
-        "symfony/event-dispatcher": "^5"
+        "symfony/event-dispatcher": "^5|^6"
     },
     "require-dev": {
         "php-parallel-lint/php-console-highlighter": "^0.5.0",
