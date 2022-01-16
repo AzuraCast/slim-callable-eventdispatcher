@@ -14,7 +14,7 @@
         "roave/security-advisories": "dev-latest"
     },
     "scripts": {
-        "dev-test": [
+        "test": [
             "@phplint",
             "@phpstan"
         ],
